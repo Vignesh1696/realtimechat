@@ -3,6 +3,9 @@ body {
   background-color:#a6e1ec;
   background-image: linear-gradient(to right, #2196F3 , white);
 }
+.fixed-footer{
+        bottom: 0;
+    }
 #chat {
             height: 500px;
             margin-bottom: 10px;
