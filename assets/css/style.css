@@ -1,6 +1,7 @@
 /* Pen Title */
 body {
   background-color:#a6e1ec;
+  background-image: linear-gradient(to right, #2196F3 , white);
 }
 #chat {
             height: 500px;
